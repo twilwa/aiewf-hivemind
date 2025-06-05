@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "yikesawjeez - meeting notes/agent meetup a2a.md",
+                "file": "yikesawjeez - notes - staging/agent meetup a2a.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "yikesawjeez - meeting notes/agent meetup MCP.md",
+                "file": "yikesawjeez - notes - staging/agent meetup MCP.md",
                 "mode": "source",
                 "source": false
               },
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "yikesawjeez - meeting notes/windsurf.md",
+                "file": "yikesawjeez - notes - staging/windsurf-6.3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "windsurf"
+              "title": "windsurf-6.3"
             }
           },
           {
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "yikesawjeez - meeting notes/graph analytics.md",
+                "file": "yikesawjeez - notes - staging/graph analytics.md",
                 "mode": "source",
                 "source": false
               },
@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "yikesawjeez - meeting notes/Graph Analytics for RAG Systems - Community Detection and Content Curation.md",
+                "file": "yikesawjeez - notes - staging/Graph Analytics for RAG Systems - Community Detection and Content Curation.md",
                 "mode": "source",
                 "source": false
               },
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "yikesawjeez - meeting notes/agent meetup MCP.md",
+                "file": "yikesawjeez - notes - staging/agent meetup MCP.md",
                 "mode": "source",
                 "source": false
               },
@@ -111,7 +111,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "yikesawjeez - meeting notes/Graph Analytics for RAG Systems - Community Detection and Content Curation.md",
+                "file": "yikesawjeez - notes - staging/Graph Analytics for RAG Systems - Community Detection and Content Curation.md",
                 "mode": "source",
                 "source": false
               },
@@ -125,16 +125,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "yikesawjeez - meeting notes/aws-cli-mcp-keynote.md",
+                "file": "yikesawjeez - notes - staging/aws-cli-mcp-keynote.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "aws-cli-mcp-keynote"
             }
+          },
+          {
+            "id": "1e02b64e1f72de42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "yikesawjeez - notes - staging/agent meetup a2a.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "agent meetup a2a"
+            }
+          },
+          {
+            "id": "c46c0b5ef1db7663",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "yikesawjeez - notes - staging/swyx n brockman- keynote.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "swyx n brockman- keynote"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       },
       {
         "id": "b72b2298c51e7a47",
@@ -313,18 +341,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83a21c3ef7953fb2",
+  "active": "c46c0b5ef1db7663",
   "lastOpenFiles": [
-    "yikesawjeez - meeting notes/Graph Analytics for RAG Systems - Community Detection and Content Curation.md",
-    "yikesawjeez - meeting notes/aws-cli-mcp-keynote.md",
-    "yikesawjeez - meeting notes/MoA.md",
-    "yikesawjeez - meeting notes/agent meetup MCP.md",
-    "yikesawjeez - meeting notes/cerebras-highlight-gemini.md",
-    "yikesawjeez - meeting notes/graph analytics.md",
-    "yikesawjeez - meeting notes/windsurf.md",
-    "yikesawjeez - meeting notes/agent meetup a2a.md",
+    "Untitled.md",
+    "yikesawjeez - notes - staging/Windsurf -keynote.md",
+    "yikesawjeez - notes - staging/swyx n brockman- keynote.md",
+    "yikesawjeez - notes - staging/agent meetup a2a.md",
+    "yikesawjeez - notes - staging/windsurf-6.3.md",
+    "yikesawjeez - notes - staging/aws-cli-mcp-keynote.md",
+    "yikesawjeez - notes - staging/Graph Analytics for RAG Systems - Community Detection and Content Curation.md",
+    "yikesawjeez - notes - staging/MoA.md",
+    "yikesawjeez - notes - staging/agent meetup MCP.md",
+    "yikesawjeez - notes - staging/cerebras-highlight-gemini.md",
+    "yikesawjeez - notes - staging/graph analytics.md",
     "Welcome.md",
     "README.md",
-    "yikesawjeez - meeting notes"
+    "yikesawjeez - notes - staging"
   ]
 }
