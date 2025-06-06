@@ -181,16 +181,100 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "machines of buying and selling grace.md",
+                "file": "yikesawjeez - notes - staging/machines of buying and selling grace.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "machines of buying and selling grace"
             }
+          },
+          {
+            "id": "f1faca3f5e66b582",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "yikesawjeez - notes - staging/search -tavily - 6.5.11.55.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "search -tavily - 6.5.11.55"
+            }
+          },
+          {
+            "id": "bc311196b2610950",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "yikesawjeez - notes - staging/agent usage.sourcegraph.imbue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "agent usage.sourcegraph.imbue"
+            }
+          },
+          {
+            "id": "2c84a34a2b2c1b15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "yikesawjeez - notes - staging/next unicorns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "next unicorns"
+            }
+          },
+          {
+            "id": "527926bf6cf9a507",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "yikesawjeez - notes - staging/agent usage.sourcegraph.imbue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "agent usage.sourcegraph.imbue"
+            }
+          },
+          {
+            "id": "cdb02531ddadea04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "yikesawjeez - notes - staging/pm keynotes.before.openrouter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pm keynotes.before.openrouter"
+            }
+          },
+          {
+            "id": "01f96d6c420c3def",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "yikesawjeez - notes - staging/pm.keynotes.openrouter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pm.keynotes.openrouter"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 18
       },
       {
         "id": "b72b2298c51e7a47",
@@ -212,12 +296,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "yikesawjeez - notes - staging/agent usage.sourcegraph.imbue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "agent usage.sourcegraph.imbue"
             }
           }
         ],
@@ -294,7 +378,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "machines of buying and selling grace.md",
+                "file": "yikesawjeez - notes - staging/pm.keynotes.openrouter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -304,7 +388,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for machines of buying and selling grace"
+              "title": "Backlinks for pm.keynotes.openrouter"
             }
           },
           {
@@ -369,23 +453,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3cad58e8261829a0",
+  "active": "b7b58cebb6a7e874",
   "lastOpenFiles": [
+    "yikesawjeez - notes - staging/pm keynotes.before.openrouter.md",
+    "yikesawjeez - notes - staging/pm.keynotes.openrouter.md",
+    "yikesawjeez - notes - staging/agent usage.sourcegraph.imbue.md",
+    "README.md",
+    "yikesawjeez - notes - staging/swe agents openhands.md",
+    "yikesawjeez - notes - staging/next unicorns.md",
+    "yikesawjeez - notes - staging/search -tavily - 6.5.11.55.md",
+    "yikesawjeez - notes - staging/windsurf-6.3.md",
+    "yikesawjeez - notes - staging/machines of buying and selling grace.md",
     "yikesawjeez - notes - staging/will brown training agentic reasoners.md",
-    "machines of buying and selling grace.md",
     "Untitled",
     "yikesawjeez - notes - staging/aws-cli-mcp-keynote.md",
     "yikesawjeez - notes - staging/swyx n brockman- keynote.md",
     "yikesawjeez - notes - staging/Windsurf -keynote.md",
     "yikesawjeez - notes - staging/agent meetup a2a.md",
-    "yikesawjeez - notes - staging/windsurf-6.3.md",
     "yikesawjeez - notes - staging/Graph Analytics for RAG Systems - Community Detection and Content Curation.md",
     "yikesawjeez - notes - staging/MoA.md",
     "yikesawjeez - notes - staging/agent meetup MCP.md",
     "yikesawjeez - notes - staging/cerebras-highlight-gemini.md",
     "yikesawjeez - notes - staging/graph analytics.md",
     "Welcome.md",
-    "README.md",
     "yikesawjeez - notes - staging"
   ]
 }
